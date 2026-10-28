@@ -196,8 +196,8 @@ O primeiro jogador a acumular **2 Selos de Excelência** sagra-se o vencedor sup
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/carvalhojonathan/souq.git
-   cd souq
+   git clone https://github.com/carvalhojonathan/souq_v1.0.git
+   cd souq_v1.0
    ```
 
 2. **Instale as dependências da raiz, backend e frontend:**
